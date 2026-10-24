@@ -6,6 +6,16 @@
     <description>Marker updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1</title>
+      <pubDate>Sat, 24 Oct 2026 06:20:08 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;The Tracker themes now look the way they do in Tracker.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Each theme's page is one of its Tracker cards, with the same paper gradient, edge, shadow, and glow&lt;/li&gt;&lt;li&gt;&lt;b&gt;Matrix:&lt;/b&gt; real falling code behind the page, glowing titles, and a green glow while you write&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dune:&lt;/b&gt; the glowing desert sky with a backlit dune and drifting sand, on a sandstone page with a low-sun shadow&lt;/li&gt;&lt;li&gt;&lt;b&gt;Blueprint:&lt;/b&gt; proper graph paper, with a heavier line every fifth square&lt;/li&gt;&lt;li&gt;&lt;b&gt;Midnight:&lt;/b&gt; a frosted-glass page over the night sky. &lt;b&gt;Neon:&lt;/b&gt; a bright pink edge that glows&lt;/li&gt;&lt;li&gt;Code blocks now use each theme's own colors&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/storybymarshall/marker-releases/releases/download/v1.1/Marker.zip" sparkle:edSignature="QBGirMyf7s4YZCVaMKWP/ornMAMdotFdaUGQ7ir/f3ZVkIULD7k/V6RMDTVWXM+IM7ewFGBMDgg6x4ydkucJAQ==" length="4197542" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.0</title>
       <pubDate>Sat, 24 Oct 2026 05:41:05 GMT</pubDate>
       <sparkle:version>1</sparkle:version>
